@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adi1-git 
+- 👋 Hi, I’m Aditiya  
 - 👀 I’m interested in making this world a better place - Everyday is a new day!
 - 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on Web Development Projects
